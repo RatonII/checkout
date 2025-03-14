@@ -1,4 +1,4 @@
-name: 'Checkout-No-Post'
+name: 'CheckoutNoPost'
 description: 'Checkout a Git repository at a particular version'
 inputs:
   repository:
